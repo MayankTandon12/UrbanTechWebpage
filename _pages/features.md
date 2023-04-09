@@ -6,15 +6,15 @@ include_in_header: true
 
 <h4>User Interface<h4/>
 
-<video width="320" height="240" controls>
+<video width="600" height="800" controls>
   <source src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/raw/Iteration3/Website%20Stuff/USER_INTERFACE.mp4" type="video/mp4">
 </video>
 
 
 <h4>Cart<h4/>
 
-<video width="320" height="240" controls>
-  <source src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/Website%20Stuff/CART.mp4" type="video/mp4">
+<video width="600" height="800" controls>
+  <source src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/raw/Iteration3/Website%20Stuff/CART.mp4" type="video/mp4">
 </video>
 
 <h4>Checkout<h4/>
