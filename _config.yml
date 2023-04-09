@@ -14,45 +14,45 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : <br/>   Mayank <t/><t/>  Sukhmeet <t/><t/>  Li <t/><t/>  Xavier <t/><t/>  Jayden
+your_name                                 : <br/>   Mayank <t/><t/><t/>  Sukhmeet <t/><t/><t/>  Li <t/><t/><t/>  Xavier <t/><t/><t/>  Jayden
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : User Interface
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : mobile
-    
-  - title                                 : Cart
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Comfortable Shopping Experience
+    description                           : Displays a list of products, allows users to add them to a cart, change their amounts in the cart, see the specifications of said items, go through with a checkout, and interact with their user account.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Checkout
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Easy Navigation
+    description                           : Set of four buttons that appear in every screen of the app, allowing users to go to the home screen, view their account screen, view their cart, and view the categories of products.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Search
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Save their information in Secure Accounts
+    description                           : Login to multiple accounts, store their payment and address information, and do a “one-click checkout” while checking out using their already stored information. The account page then displays a user’s stored payment and address data, as well
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Recommended Items
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : mobile
-  
-  - title                                 : Universal Navigation
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Review products and Purchase products
+    description                           : Users to store stuff specific to their currently logged-in account and is stored when the app is closed. The cart allows users to see their running total as well as adjust amounts or remove items from the cart entirely.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Categorize Items
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Make informed purchase decisions
+    description                           : Purchase items from their cart by inputting valid credit card information and a valid address in Winnipeg, MB, Canada. If logged in, users can also store their payment and address information using the save information button for later “one-click
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Account
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Search item needed by product or brand
+    description                           : Search for any product by name or brand name. This then displays the items from the search as a scrollable list just like the main screen.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Comparing
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : View products by categories
+    description                           : Scrollable grid view of categories that when clicked on display the list of items within that category. When inside that category, any searches are done only within that category.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Compare two products
+    description                           : Compare two products side by side and displays which product has a lower price by how much, which items have higher stock by how much, and which item has a lower price after discount is considered.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : View recommended products
+    description                           : Shows users a list of products below the current product’s image and specifications that are usually serving the same purpose as the currently selected item or are bought with this item frequently.
     fontawesome_icon_name                 : mobile
 
 # Theme Settings
@@ -60,7 +60,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/appImage.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : assets/appImage.jpg # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.9
 
