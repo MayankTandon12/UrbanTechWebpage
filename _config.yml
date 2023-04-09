@@ -14,7 +14,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : <br/>   Mayank <t/><t/><t/>  Sukhmeet <t/><t/><t/>  Li <t/><t/><t/>  Xavier <t/><t/><t/>  Jayden
+your_name                                 : <br/>   Mayank <t/><<t/><t/><t/>  Sukhmeet <t/><t/><t/><t/>  Li <t/><t/><t/><t/>  Xavier <t/><t/><t/><t/>  Jayden
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
