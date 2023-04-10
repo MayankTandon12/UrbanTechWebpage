@@ -13,7 +13,7 @@ include_in_header: true
 <h5>Displays a list of products, allows users to add them to a cart, change their amounts in the cart, see the specifications of said items, go through with a checkout, and interact with their user account.</h5>
 
 <video width="600" height="800" controls>
-  <source src="assets/USER_INTERFACE.mp4" type="video/mp4">
+  <source src="features/assets/USER_INTERFACE.mp4" type="video/mp4">
 </video>
 
 <h4>Cart<h4/>
@@ -21,7 +21,7 @@ include_in_header: true
 <h5>Cart feature allows users to store stuff, specific to their currently logged in account, and is stored when the app is closed. The cart allows users to see their running total, as well as adjust amounts or remove items from the cart entirely.</h5>
 
 <video width="600" height="800" controls>
-  <source src="assets/CART.mp4" type="video/mp4">
+  <source src="features/assets/CART.mp4" type="video/mp4">
 </video>
 
 <h4>Checkout<h4/>
