@@ -39,7 +39,7 @@ The Postmortem document can also be viewed on the GitLab Project [Postmortem Doc
 
 Chart (as an image) showing the 2 data points of project velocity from the last two iterations.
 
-<img src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/raw/Iteration3/ProjectVelocityChart.png">
+<img src="assets/ProjectVelocityChart.png">
 
 A detailed retrospective Analysis can be viewed here [RETROSPECTIVE Document](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/RETROSPECTIVE.md)
 

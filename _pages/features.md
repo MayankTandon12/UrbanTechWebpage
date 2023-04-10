@@ -58,4 +58,3 @@ include_in_header: true
 <h5>Button Layout: Set of four buttons that appear in every screen of the app, and allow users to go to the home screen, view their account screen, view their cart, and view the categories of products. </h5>
 <img src="assets/USER_INTERFACE.PNG" height="auto" width="auto"/>
 
-}
