@@ -25,4 +25,7 @@ To address the challenges of integrating certain features like images, we planne
 Finally, we will use prior experience to inform better estimates. By looking at past projects and iterations, we can get a better idea of how much time and effort is required for each task. This will allow us to set more accurate estimates and avoid delays in the future.
 
 Chart (as an image) showing the 2 data points of project velocity from the last two iterations.
+
 <img src="assets/ProjectVelocityChart.png">
+
+A detailed retrospective Analysis can be viewed here [RETROSPECTIVE Document](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/RETROSPECTIVE.md)

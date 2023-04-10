@@ -33,13 +33,5 @@ After discussing some of the issues that arose during the development of your pr
 
 The Postmortem document can also be viewed on the GitLab Project [Postmortem Document ](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/POST%20MORTEM.md)
 
-## Retrospective Analysis
 
-*plan to calculate project velocity by looking at previous iterations, which will help us set better *internal deadlines*. This will give us a clearer idea of how much work can be completed in a given timeframe and allow us to plan better
-
-Chart (as an image) showing the 2 data points of project velocity from the last two iterations.
-
-<img src="assets/ProjectVelocityChart.png">
-
-A detailed retrospective Analysis can be viewed here [RETROSPECTIVE Document](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/RETROSPECTIVE.md)
 
