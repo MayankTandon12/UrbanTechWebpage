@@ -12,7 +12,6 @@ app_description                           : Connecting you to the future of urba
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
-
 # Information About Yourself
 your_name                                 : <br/>   Mayank, <t/><t/><t/><t/>  Sukhmeet, <t/><t/><t/><t/>  Li, <t/><t/><t/><t/>  Xavier, <t/><t/><t/><t/>  Jayden
 your_link                                 : https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech
