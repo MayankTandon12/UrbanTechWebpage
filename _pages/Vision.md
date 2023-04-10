@@ -15,6 +15,6 @@ Urban tech will also have other traditional ecommerce functions like a **Cart** 
 
 Urban Tech is envisioned as a mobile application, but it will be extensible so that future releases can have a web-based interface.
 
-The project will be considered successful if *consumers find the app easy to use and helpful, as determined by a consumer satisfaction survey. Urban Tech as a platform will also be considered a success if it is **profitable (makes more money than it losses)* and has at least *one thousand weekly users*.survey. Urban Tech as a platform will also be considered a success if it is profitable (makes more money than it losses) and has at least one thousand weekly users.
+The project will be considered successful if *consumers find the app easy to use and helpful, as determined by a consumer satisfaction survey. Urban Tech as a platform will also be considered a success if it is **profitable (makes more money than it loses)** and has at least *one thousand weekly users*.survey. Urban Tech as a platform will also be considered a success if it is profitable (makes more money than it losses) and has at least one thousand weekly users.
 
 The Vision Statement can also be viewed on the GitLab Project [Vision Statement](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/blob/Iteration3/VISION.md)
