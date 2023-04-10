@@ -5,7 +5,7 @@ include_in_header: true
 ---
 # Urban Tech Vision Statement
 
-*Urban Tech* is an **online store** that allows **regular people** to **find and purchase phones, computers, wearables, and software products on-demand from anywhere*. Like traditional ecommerce platforms, it will contain hundreds of **products listed with their price, specifications, and image*.
+*Urban Tech* is an **online store** that allows **regular people** to **find and purchase phones, computers, wearables, and software products on-demand from anywhere**. Like traditional ecommerce platforms, it will contain hundreds of **products listed with their price, specifications, and image**.
 
 Urban Tech is primarily designed for use by regular consumers looking to buy tech products. It therefore adheres to certain standards found elsewhere in the ecommerce industry. Urban Tech permits consumers to *search explicitly for a product or search brand by using a search bar, while also providing less targeted search by allowing users to **select products by category by viewing the categories**. For example, if a user was looking for a new smart phone, but did not know which model they wanted, they could go to the “Phone” category and browse available models. Otherwise, if a user already knows they want the “iPhone 14”, they can look it up directly using the search bar.
 
