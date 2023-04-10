@@ -4,12 +4,6 @@ title: Features
 include_in_header: true
 ---
 
-body {
-    background-image: url('assets/appImage.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 0.5;
-
 <p>Together, these nine features allow users to have a comfortable shopping experience, save their information in secure accounts, purchase products, and make informed purchase decisions. Our features work together to allow users to not only buy items, but by multiple items at once, and store receipts from previous purchases.</p>
 
 ### List of Features and short Description
