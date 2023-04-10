@@ -3,6 +3,13 @@ layout: page
 title: Features
 include_in_header: true
 ---
+
+body {
+    background-image: url('assets/appImage.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.5;
+
 <p>Together, these nine features allow users to have a comfortable shopping experience, save their information in secure accounts, purchase products, and make informed purchase decisions. Our features work together to allow users to not only buy items, but by multiple items at once, and store receipts from previous purchases.</p>
 
 ### List of Features and short Description
@@ -57,3 +64,5 @@ include_in_header: true
 <h4>Universal Navigation<h4/>
 <h5>Button Layout: Set of four buttons that appear in every screen of the app, and allow users to go to the home screen, view their account screen, view their cart, and view the categories of products. </h5>
 <img src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/raw/Iteration3/Website%20Stuff/USER_INTERFACE.PNG" height="auto" width="auto"/>
+
+}
