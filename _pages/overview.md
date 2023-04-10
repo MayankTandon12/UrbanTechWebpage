@@ -48,7 +48,7 @@ The complete vision statement is there in the tab *Vision*
 
 Overall, the intended users of a tech store are anyone who is interested in technology and looking for electronic devices and accessories to meet their needs, whether that be for work, entertainment, or personal use.
 
-<img src="assets/Image.png" height="auto" width="auto"/>
+<img src="https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech/-/raw/Iteration3/Website%20Stuff/Image.png" height="auto" width="auto"/>
 
 ## Can check out our project and contribute : [UrbanTech Project](https://code.cs.umanitoba.ca/comp3350-winter2023/A01-G12-UrbanTech)
 ### List of Contributors:
